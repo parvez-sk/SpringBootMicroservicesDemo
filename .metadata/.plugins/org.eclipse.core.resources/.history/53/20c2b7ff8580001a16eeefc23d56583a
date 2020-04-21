@@ -1,0 +1,22 @@
+package com.parveztest.hrservicems.modles;
+
+public class Employee {
+
+	private String Id;
+	private String FirstName;
+	private String LastName;
+	private String Dept;
+	
+	public Patient() {}
+
+	public Employee(String id, String firstName, String lastName, String dept) {
+		super();
+		Id = id;
+		FirstName = firstName;
+		LastName = lastName;
+		Dept = dept;
+	}
+	
+	
+	
+}

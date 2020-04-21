@@ -1,0 +1,19 @@
+package com.parveztest.admissionsservicems.models;
+
+import java.util.List;
+
+public class AEmployeesList {
+	
+	public List <AEmployee> employees;
+
+	public List<AEmployee> getEmployees() {
+		return employees;
+	}
+
+	public void setEmployees(List<AEmployee> aemployees) {
+		this.employees = aemployees;
+	}
+	
+	
+
+}

@@ -1,0 +1,7 @@
+package com.parveztest.admissionsservicems.models;
+
+public class DiseasesList {
+	
+	public List <Disease> diseases;
+
+}

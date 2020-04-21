@@ -1,0 +1,5 @@
+package com.parveztest.hrservicems.modles;
+
+public class Employee {
+
+}

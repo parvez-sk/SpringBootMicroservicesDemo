@@ -1,0 +1,10 @@
+package com.parveztest.hrservicems.modles;
+
+public class EmployeesList {
+	
+	public setEmployees (List employees) {
+		
+		
+	}
+
+}

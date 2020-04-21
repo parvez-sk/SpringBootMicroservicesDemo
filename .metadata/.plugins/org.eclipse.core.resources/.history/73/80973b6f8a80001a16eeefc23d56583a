@@ -1,0 +1,18 @@
+package com.parveztest.pathologyservicems.models;
+
+public class Disease {
+	
+	private String Id;
+	private String description;
+	private String treatment;
+	
+	public Disease() {}
+
+	public Disease(String id, String description, String treatment) {
+		Id = id;
+		this.description = description;
+		this.treatment = treatment;
+	}
+
+
+}

@@ -1,0 +1,5 @@
+package com.parveztest.admissionsservicems.resources;
+
+public @interface restController {
+
+}

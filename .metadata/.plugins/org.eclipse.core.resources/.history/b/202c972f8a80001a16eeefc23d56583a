@@ -1,0 +1,5 @@
+package com.parveztest.pathologyservicems.models;
+
+public class Disease {
+
+}

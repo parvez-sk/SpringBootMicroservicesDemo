@@ -1,0 +1,9 @@
+package com.parveztest.pathologyservicems.resources;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/pathology")
+public class PathologyResources {
+
+}

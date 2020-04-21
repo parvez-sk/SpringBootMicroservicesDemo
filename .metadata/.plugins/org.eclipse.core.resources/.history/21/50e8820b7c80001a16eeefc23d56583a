@@ -1,0 +1,5 @@
+package com.parveztest.admissionsservicems.models;
+
+public class Patient {
+
+}

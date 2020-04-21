@@ -1,0 +1,8 @@
+package com.parveztest.hrservicems.resources;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@RequestMapping("/hr")
+public class HrResources {
+
+}

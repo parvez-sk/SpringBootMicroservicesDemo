@@ -1,0 +1,11 @@
+package com.parveztest.admissionsservicems.models;
+
+import java.util.List;
+
+public class DiseasesList {
+	
+	public List <Disease> diseases;
+	
+	
+
+}

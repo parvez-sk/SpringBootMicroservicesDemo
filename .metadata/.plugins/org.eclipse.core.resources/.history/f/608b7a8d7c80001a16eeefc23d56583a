@@ -1,0 +1,17 @@
+package com.parveztest.admissionsservicems.models;
+
+public class Patient {
+
+	private String Id;
+	private String name;
+	private String nationality;
+	
+	public Patient(String id, String name, String nationality) {
+		
+		Id = id;
+		this.name = name;
+		this.nationality = nationality;
+	}
+	
+	
+}

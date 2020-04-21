@@ -1,0 +1,6 @@
+package com.parveztest.hrservicems.resources;
+
+@RequestMapping("/hr")
+public class HrResources {
+
+}

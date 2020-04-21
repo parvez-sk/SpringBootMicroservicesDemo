@@ -1,0 +1,10 @@
+package com.parveztest.admissionsservicems.resources;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/admisions")
+public class AdmissionResourcesone {
+
+	
+}

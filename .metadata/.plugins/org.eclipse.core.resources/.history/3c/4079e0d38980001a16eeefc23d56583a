@@ -1,0 +1,19 @@
+package com.parveztest.pathologyservicems.resources;
+
+import java.util.Arrays;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.parveztest.hrservicems.modles.Employee;
+
+@RestController
+@RequestMapping("/pathology")
+public class PathologyResources {
+
+	List<Disease> diseases = Arrays.asList(
+			new Disease("D1","Nasal Congestion","Steam"),
+			new Disease ("D2","Fever","Azithromycin"),
+			new Disease ("D3","Corona","Hydroxychloroquine"),
+			);
+}
